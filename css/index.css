@@ -109,6 +109,9 @@ background-color: #FE5E35;
 border: transparent;
 color: #ffffff;
 }
+.action-btn:hover{
+    background-color:#26d61d;
+}
 
 /* Main-right section */
 
@@ -166,4 +169,34 @@ color: #ffffff;
     border: transparent;
     color: #ffffff;
    margin-left: 150px;
+}
+
+.action-btn1:hover{
+    background-color:#26d61d;
+
+}
+
+nav .mob-menu{
+    display:none;
+}
+
+@media only screen and (max-width: 600px) {
+    
+   nav .mob-menu {
+    display: block;
+    font-size: 2rem;
+    }
+
+    .nav-items{
+        display: none;
+    }
+
+    .action{
+        display: none;
+    }
+
+   .intro-section{
+    display: flex;
+    flex-direction:column-reverse ;
+   }
 }
