@@ -4,6 +4,8 @@ Hi This is Ravi K R from Karnataka, welcome to my git profile.
 
 This is a Simple Wireless-headphone-landing-page, I have built it from scratch using HTML and CSS. its great experince i learnt Layout making through Flexbox, Buttons and Hover Effect and explored to deffrent css positions like static, relative, fixed, absolute, sticky. 
 
+and also media query was used to adjust content size for smaller screen devices.
+
 </br>
 
 ## Tech Stack Used :
